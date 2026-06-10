@@ -48,7 +48,7 @@ except Exception as e:
 
 # 4. Map your Open-Meteo website data to match your database columns
 upload_df = pd.DataFrame()
-# (Note: Change 'hourly_dataframe' below if your notebook variable has a different name!)
+
 upload_df['timestamp'] = pd.to_datetime(hourly_dataframe['date'])
 upload_df['value'] = hourly_dataframe['temperature_2m']
 upload_df['location_id'] = 1  
