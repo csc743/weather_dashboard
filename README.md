@@ -7,5 +7,5 @@ It shows data about daily high temperatures, daily averages, and change over the
 ## Features
 - Hourly temperature trend
 - Daily average temperature bar chart
--Highest tempature today card
+- Highest tempature recorded card
 
