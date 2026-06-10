@@ -9,3 +9,9 @@ It shows data about daily high temperatures, daily averages, and change over the
 - Daily average temperature bar chart
 - Highest tempature recorded card
 
+###Requirements
+dash
+plotly
+pandas
+sqlalchemy
+python-dotenv
