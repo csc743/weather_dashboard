@@ -15,3 +15,4 @@ plotly
 pandas
 sqlalchemy
 python-dotenv
+<img width="1335" height="821" alt="image" src="https://github.com/user-attachments/assets/daf3b03e-7ff5-4151-812a-62fcf040428c" />
